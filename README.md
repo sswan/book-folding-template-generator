@@ -7,7 +7,7 @@ measure your book, I suggest using mm as it's easier to do fractions.
 All of the user inputs are at the top of `generate_template.py` and
 are documented.
 
-The generator is set up to make a heart using `template.jpg' using
+The generator is set up to make a heart using `template.jpg` using
 the book "Scientific Computing: An Introductory Survey" by Michael
 T. Heath. A picture of the folded book is in `example.jpg`.
 
